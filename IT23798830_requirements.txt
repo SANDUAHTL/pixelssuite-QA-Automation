@@ -1,0 +1,6 @@
+##  Repository
+ https://github.com/SANDUAHTL/pixelssuite-QA-Automation.git
+
+---
+playwright
+openpyxl
